@@ -1,7 +1,7 @@
 {
-  "name": "Angular",
+  "name": "angular",
   "version": "1.5.8",
-  "main": "./Angular.js",
+  "main": "angular.js",
   "description": "Angular ve ek modülleri",
   "homepage": "https://github.com/trendaxnet/Angular",
   "authors": [
