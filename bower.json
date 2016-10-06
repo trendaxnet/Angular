@@ -1,0 +1,36 @@
+{
+  "name": "Angular",
+  "version": "1.5.8",
+  "main": "Angular.js",
+  "homepage": "https://github.com/trendaxnet/Angular",
+  "authors": [
+    "ali@trendax.net"
+  ],
+  "description": "Angular ve ek modülleri",
+  "keywords": [
+    "angular",
+    "angular-full",
+    "angular",
+    "complete",
+    "angular",
+    "lates",
+    "trendax-angular",
+    "trendax",
+    "angular",
+    "angular",
+    "trendax",
+    "angular-animate",
+    "angular-aria",
+    "angular-cookies",
+    "angular-loader",
+    "angular-messages",
+    "angular-mocks",
+    "angular-resource",
+    "angular-route",
+    "angular-sanitize",
+    "angular-scenario",
+    "angular-touch"
+  ],
+  "license": "MIT",
+  "private": true
+}
