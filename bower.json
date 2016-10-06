@@ -1,12 +1,12 @@
 {
   "name": "Angular",
   "version": "1.5.8",
-  "main": "Angular.js",
+  "main": "./Angular.js",
+  "description": "Angular ve ek modülleri",
   "homepage": "https://github.com/trendaxnet/Angular",
   "authors": [
     "ali@trendax.net"
   ],
-  "description": "Angular ve ek modülleri",
   "keywords": [
     "angular",
     "angular-full",
@@ -31,6 +31,5 @@
     "angular-scenario",
     "angular-touch"
   ],
-  "license": "MIT",
-  "private": true
+  "license": "MIT"  
 }
